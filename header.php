@@ -7,6 +7,19 @@
     <link rel="stylesheet" type="text/css" href="css/header.css">
 </head>
 <header>
-
+    <div id="nav">
+        <nav role="navigation">
+            <div id="nav_left">
+                <img src="img/logo_jeu.png">
+                <a href="#">ACCUEIL</a>
+                <a>|</a>
+                <a href="#">INSCRIPTION</a>
+            </div>
+            <div id="nav_right">
+                <!--<a href="#">Pseudo</a>-->
+                <div id="avatar"></div>
+            </div>
+        </nav>
+    </div>
 </header>
 </html>
