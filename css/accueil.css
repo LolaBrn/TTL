@@ -30,3 +30,44 @@
     padding: 15px;
     border-radius: 20px;
 }
+
+#home_prez{
+    width: 100%;
+    height: 800px;
+    background-image: url('../img/feuillage_1.png');
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#prez{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 80%;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+#prez h1{
+    color: gold;
+}
+#prez p{
+    color: white;
+}
+
+#home_info{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: ;
+}
+#home_info img{
+    width: 50px;
+}
+#home_info p{
+    color: gold;
+}
