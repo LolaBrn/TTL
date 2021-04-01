@@ -1,0 +1,30 @@
+#home{
+    width: 100%;
+    background-image: url('../img/illu_accueil_jeu1.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 740px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+#home_connexion{
+    width: 30%;
+    height: 250px;
+    background-color: white;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-right: 9%;
+}
+
+#home_connexion button{
+    background-color: #6D5D22;
+    border: none;
+    margin: 15px;
+    color: gold;
+    font-weight: 500;
+}
