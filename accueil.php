@@ -17,11 +17,18 @@
         <p>Dans un duel au tour par tour, vous allez amasser le plus d'équipement possible afin d'obtenir les faveurs du plus de mercenaire possible.</p>
     </div>
     <div id="home_info">
-        <img src="img/people.png">
-        <p>2 joueurs</p>
-        <img src="img/timer.png">
-        <p>20 minutes</p>
+        <div>
+            <img src="img/people.png">
+            <p>2 joueurs</p>
+        </div>
+        <div>
+            <img src="img/timer.png">
+            <p>20 minutes</p>
+        </div>
         <p>13 ans et plus</p>
+    </div>
+    <div id="home_video">
+
     </div>
 </section>
 
