@@ -22,7 +22,7 @@
 }
 
 #home_connexion button{
-    background-color: #6D5D22;
+    background-color: #595959;
     border: none;
     margin: 15px;
     color: gold;
@@ -80,8 +80,11 @@
 }
 
 #home_video{
-    width: 80%;
-    height: 500px;
-    background-color: black;
+    width: 100%;
+    height: auto;
     margin-bottom: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }

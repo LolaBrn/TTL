@@ -28,7 +28,7 @@
         <p>13 ans et plus</p>
     </div>
     <div id="home_video">
-
+        <iframe width="80%" height="700px" src="https://www.youtube.com/embed/eziIKDv6qcY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </section>
 
