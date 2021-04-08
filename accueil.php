@@ -2,7 +2,7 @@
 
 <section id="home">
     <div id="home_connexion">
-        <button id="inscription">INSCRIPTION</button>
+        <button id="home_inscription">INSCRIPTION</button>
         <button id="connexion">CONNEXION</button>
     </div>
 </section>

@@ -7,6 +7,7 @@
     <link rel="stylesheet" type="text/css" href="css/header.css">
     <link rel="stylesheet" type="text/css" href="css/accueil.css">
     <link rel="stylesheet" type="text/css" href="css/footer.css">
+    <link rel="stylesheet" type="text/css" href="css/inscription.css">
 </head>
 <body>
     <header>
@@ -14,9 +15,9 @@
             <nav role="navigation">
                 <div id="nav_left">
                     <img src="img/logo_jeu.png">
-                    <a href="#">ACCUEIL</a>
+                    <a href="accueil.php">ACCUEIL</a>
                     <a>|</a>
-                    <a href="#">INSCRIPTION</a>
+                    <a href="inscription.php">INSCRIPTION</a>
                 </div>
                 <div id="nav_right">
                     <!--<a href="#">Pseudo</a>-->
