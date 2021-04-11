@@ -1,6 +1,7 @@
 <?php require 'header.php'; ?>
 
 <section id="home">
+    <div id="home_fond"><img src="img/illu_accueil_jeu2.png"></div>
     <div id="home_connexion">
         <button id="home_inscription">INSCRIPTION</button>
         <button id="connexion">CONNEXION</button>

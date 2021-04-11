@@ -1,14 +1,17 @@
 #home{
     width: 100%;
-    background-image: url('../img/illu_accueil_jeu2.png');
-    background-size: 100%;
-    background-repeat: no-repeat;
     min-height: 100vh;
     display: flex;
     align-items: center;
     justify-content: flex-end;
 }
-
+#home_fond{
+    position: relative;
+    width: 100%;
+}
+#home_fond img{
+    width: 100%;
+}
 #home_connexion{
     width: 30%;
     height: 250px;
@@ -19,6 +22,7 @@
     align-items: center;
     justify-content: center;
     margin-right: 9%;
+    position: absolute;
 }
 
 #home_connexion button{
