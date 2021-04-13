@@ -13,6 +13,7 @@
     align-items: center;
     justify-content: center;
     height: auto;
+    font-family: 'Arial', sans-serif;
 }
 
 #form_inscription{
@@ -62,6 +63,7 @@
     border: none;
     border-radius: 25px;
     font-size: 20px;
+    font-family: 'aventura';
 }
 
 #lien-avatars{
@@ -91,4 +93,9 @@
     justify-content: flex-start;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+#error_inscription{
+    text-align: center;
+    color: #f4d329;
+    text-decoration: underline;
 }
