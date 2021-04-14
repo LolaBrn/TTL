@@ -8,6 +8,7 @@
     <link rel="stylesheet" type="text/css" href="css/accueil.css">
     <link rel="stylesheet" type="text/css" href="css/footer.css">
     <link rel="stylesheet" type="text/css" href="css/inscription.css">
+    <link rel="stylesheet" type="text/css" href="css/connexion.css">
 </head>
 <body>
     <header>
@@ -21,7 +22,7 @@
                 </div>
                 <div id="nav_right">
                     <a href="profil.php">Pseudo</a>
-                    <div id="avatar"><img src="img/avatar3.png"></div>
+                    <div id="avatar"><img src="img/avatars/arcadia.png"></div>
                 </div>
             </nav>
         </div>
