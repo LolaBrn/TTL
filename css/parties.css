@@ -8,6 +8,12 @@
     justify-content: center;
     flex-direction: column;
     align-items: center;
+    font-family: 'Arial', sans-serif;
+}
+
+h1{
+    color: gold;
+    font-family: 'aventura';
 }
 
 #parties_en_cours{
@@ -46,7 +52,7 @@
     justify-content: center;
 }
 .enCours_reprendre{
-    color: white;
+    color: gold;
     text-decoration: none;
     padding-top: 55px;
 }
@@ -90,10 +96,112 @@
     justify-content: center;
 }
 .enAttente_rejoindre{
-    color: white;
+    color: gold;
     text-decoration: none;
     padding-top: 55px;
 }
 .enAttente_rejoindre:hover{
     text-decoration: underline;
+}
+
+
+#nouvelle_partie{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#new{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    height: 500px;
+}
+
+#new1{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+}
+#btn_aleatoire{
+    background-color: gold;
+    padding: 15px 20px 15px 20px;
+    border: none;
+    margin: 15px;
+}
+#btn_aleatoire a{
+    color: black;
+    font-family: aventura;
+    text-decoration: none;
+}
+
+#new_liste{
+    background-color: white;
+    width: 80%;
+    padding: 20px;
+}
+#new_liste h3{
+    color: gold;
+    text-decoration: underline;
+}
+.invit{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    justify-content: center;
+}
+.invit_infos{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    border: solid 2px #6fe456;
+    padding: 10px;
+}
+
+#new2{
+    width: 50%;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    height: 80%;
+}
+
+#new2 h2{
+    color: gold;
+    text-decoration: underline;
+    margin: 35px;
+}
+
+#invit_pseudoAmi{
+    width: 85%;
+    height: 30px;
+}
+#invit_search{
+    width: 85%;
+    height: 30px;
+}
+
+#btn_defier, #btn_rechercher{
+    width: 50%;
+    background-color: #6fe456;
+    padding: 15px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#btn_defier a, #btn_rechercher a{
+    color: white;
+    text-decoration: none;
+    font-family: aventura;
 }
