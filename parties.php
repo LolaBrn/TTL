@@ -157,6 +157,34 @@
             </div>
         </div>
     </div>
+    <button id="btn_profil"><a href="profil.php">PROFIL ET STATISTIQUES</a></button>
+    <h2 id="ami_invit_titre">Ils m'ont ajouté en ami</h2>
+    <div id="liste_demandeAmi">
+        <div class="demandeAmi">
+            <p>Pseudo</p>
+            <p>Email</p>
+            <p>Elo</p>
+            <a href="#">Accepter l'invitation ?</a>
+        </div>
+        <div class="demandeAmi">
+            <p>Pseudo</p>
+            <p>Email</p>
+            <p>Elo</p>
+            <a href="#">Accepter l'invitation ?</a>
+        </div>
+        <div class="demandeAmi">
+            <p>Pseudo</p>
+            <p>Email</p>
+            <p>Elo</p>
+            <a href="#">Accepter l'invitation ?</a>
+        </div>
+        <div class="demandeAmi">
+            <p>Pseudo</p>
+            <p>Email</p>
+            <p>Elo</p>
+            <a href="#">Accepter l'invitation ?</a>
+        </div>
+    </div>
 </section>
 
 <?php require 'footer.php' ?>

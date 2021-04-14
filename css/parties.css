@@ -135,9 +135,10 @@ h1{
     margin: 15px;
 }
 #btn_aleatoire a{
-    color: black;
+    color: white;
     font-family: aventura;
     text-decoration: none;
+    font-size: 15px;
 }
 
 #new_liste{
@@ -166,6 +167,12 @@ h1{
     padding: 10px;
 }
 
+.invit_rejoindre{
+    color: black;
+    text-decoration: none;
+    margin: 10px;
+}
+
 #new2{
     width: 50%;
     background-color: white;
@@ -185,11 +192,16 @@ h1{
 
 #invit_pseudoAmi{
     width: 85%;
-    height: 30px;
+    height: 35px;
+    border-radius: 20px;
+    border: solid 1px #6e6e6e;
 }
 #invit_search{
     width: 85%;
-    height: 30px;
+    height: 35px;
+    margin-top: 30px;
+    border-radius: 20px;
+    border: solid 1px #6e6e6e;
 }
 
 #btn_defier, #btn_rechercher{
@@ -204,4 +216,52 @@ h1{
     color: white;
     text-decoration: none;
     font-family: aventura;
+}
+
+#btn_profil{
+    background-color: gold;
+    padding: 15px;
+    border: none;
+    margin: 30px;
+}
+#btn_profil a{
+    color: white;
+    text-decoration: none;
+    font-family: aventura;
+    font-size: 30px;
+}
+
+#ami_invit_titre{
+    color: white;
+    background-color: black;
+    text-decoration: underline;
+    padding: 20px 300px 20px 300px;
+    border-radius: 25px;
+}
+
+#liste_demandeAmi{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.demandeAmi{
+    background-color: rgba(0,0,0,0.5);
+    width: 85%;
+    height: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px;
+    border-radius: 25px;
+}
+.demandeAmi a{
+    color: #6fe456;
+    text-decoration: none;
+}
+.demandeAmi a:hover{
+    text-decoration: underline;
 }
