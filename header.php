@@ -9,6 +9,7 @@
     <link rel="stylesheet" type="text/css" href="css/footer.css">
     <link rel="stylesheet" type="text/css" href="css/inscription.css">
     <link rel="stylesheet" type="text/css" href="css/connexion.css">
+    <link rel="stylesheet" type="text/css" href="css/parties.css">
 </head>
 <body>
     <header>
