@@ -3,8 +3,8 @@
 <section id="home">
     <div id="home_fond"><img src="img/illu_accueil_jeu2.png"></div>
     <div id="home_connexion">
-        <button id="home_inscription">INSCRIPTION</button>
-        <button id="connexion">CONNEXION</button>
+        <button id="btn_home_inscription"><a href="inscription.php">INSCRIPTION</a></button>
+        <button id="btn_home_connexion"><a href="connexion.php">CONNEXION</a></button>
     </div>
 </section>
 <section id="home_prez">
