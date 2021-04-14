@@ -1,3 +1,7 @@
+@font-face {
+    font-family: "aventura";
+    src: url(../typo/Aventura-Bold.otf);
+}
 #home{
     width: 100%;
     min-height: 100vh;
@@ -37,6 +41,7 @@
     color: gold;
     text-decoration: none;
     font-size: 20px;
+    font-family: 'aventura';
 }
 
 #home_prez{
@@ -61,6 +66,7 @@
 }
 #prez h1{
     color: gold;
+    font-family: 'aventura';
 }
 #prez p{
     color: white;
