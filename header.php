@@ -10,6 +10,7 @@
     <link rel="stylesheet" type="text/css" href="css/inscription.css">
     <link rel="stylesheet" type="text/css" href="css/connexion.css">
     <link rel="stylesheet" type="text/css" href="css/parties.css">
+    <link rel="stylesheet" type="text/css" href="css/profil.css">
 </head>
 <body>
     <header>
