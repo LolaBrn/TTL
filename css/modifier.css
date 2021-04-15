@@ -26,4 +26,13 @@
     padding: 20px 30px 20px 30px;
     font-family: aventura;
     border-radius: 20px;
+    margin-top: 10px;
+}
+
+.form_modifierClass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }

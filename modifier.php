@@ -11,6 +11,8 @@
             </div>
             <div class="form_modifierClass">
                 <input type="text" name="pseudo" id="form_pseudo" placeholder="Pseudo">
+            </div>
+            <div class="form_modifierClass">
                 <div id="avatars">
                     <h3>Avatars :</h3>
                     <input type="radio" name="photo" value="tharuk" id="tharuk"><img id="img-tharuk" src="img/avatars/tharuk.png" alt="tharuk" style="width: 100px">
