@@ -67,7 +67,7 @@
                     <span>...</span>
                 </div>
             </div>
-            <button id="btnModifierProfil"><a href="modifer.php">MODIFIER</a></button>
+            <button id="btnModifierProfil"><a href="modifier.php">MODIFIER</a></button>
         </div>
 
     </div>

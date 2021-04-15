@@ -1,0 +1,29 @@
+#modifierProfil{
+    width: 100%;
+    height: auto;
+    background-image: url("../img/feuillage_1.png");
+    background-size: 100%;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Arial', sans-serif;
+}
+
+#modfier{
+    width: 75%;
+    background-color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding: 40px;
+    border-radius: 25px;
+}
+
+#btn_modif{
+    background-color: #6e6e6e;
+    color: gold;
+    border: none;
+    padding: 20px 30px 20px 30px;
+    font-family: aventura;
+    border-radius: 20px;
+}

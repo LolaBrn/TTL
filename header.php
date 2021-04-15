@@ -11,6 +11,7 @@
     <link rel="stylesheet" type="text/css" href="css/connexion.css">
     <link rel="stylesheet" type="text/css" href="css/parties.css">
     <link rel="stylesheet" type="text/css" href="css/profil.css">
+    <link rel="stylesheet" type="text/css" href="css/modifier.css">
 </head>
 <body>
     <header>
